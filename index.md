@@ -7,6 +7,7 @@
 Identifying effective renewable energy solutions is challenging due to complex supply chains and variable outputs. I used Gurobi to model combinations of renewable energy options under cost constraints, optimizing allocations to maximize energy production while minimizing investment, providing realistic projections and supporting broader consumer adoption.
 Real-world scenarios:
 Urban traffic management: Modeling traffic flow probabilities in city networks where overall congestion depends on both signal timing choices and inherent variability in traffic volumes throughout the day.
+<img src="images/optimization.png?raw=true" />
 
 [A Bayesian Approach to Supplier Optimization](https://medium.com/@oefeleinerin/a-bayesian-approach-to-supplier-optimization-9efb2e2c9a58) 
 Optimized supplier selection and manufacturing output using Bayesian modeling to account for variability in supplier yields and production quality. Leveraged PyMC to model supplier performance with hyperpriors and empirical priors, estimating how much product could be successfully manufactured under current supplier conditions. Performed scenario analysis to identify top-performing suppliers, reducing waste from lost product by 68% and providing actionable insights for supply chain decision-making.
