@@ -21,6 +21,7 @@ Behavior in networked systems is often difficult to predict due to complex relat
 [Personalizing the Customer Experience with Reinforcement Learning](https://medium.com/@oefeleinerin/smarter-engagement-lower-churn-the-role-of-reinforcement-learning-in-personalizing-the-customer-82580b39c2f2)
 Implemented a **Reinforcement Learning (RL)** solution using **SARSA(λ)** and tile coding to reduce user churn on an online tax filing platform. Modeled user interactions as states, interventions as actions, and retention as rewards. The RL agent learned to select optimal actions, such as offering a Tax Professional, personalized incentives, or proactive support, maximizing retention while minimizing unnecessary interventions.  
 <img src="images/SARSA.png?raw=true" />
+
 Key outcomes:  
 - Improved early churn detection by analyzing action-value functions.  
 - Identified interventions most likely to prevent churn, guiding personalized customer experiences.  
