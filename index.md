@@ -11,15 +11,15 @@ Urban traffic management: Modeling traffic flow probabilities in city networks w
 
 [A Bayesian Approach to Supplier Optimization](https://medium.com/@oefeleinerin/a-bayesian-approach-to-supplier-optimization-9efb2e2c9a58) 
 Optimized supplier selection and manufacturing output using Bayesian modeling to account for variability in supplier yields and production quality. Leveraged PyMC to model supplier performance with hyperpriors and empirical priors, estimating how much product could be successfully manufactured under current supplier conditions. Performed scenario analysis to identify top-performing suppliers, reducing waste from lost product by 68% and providing actionable insights for supply chain decision-making.
+<img src="images/BFMI.png?raw=true" />
 
 [Love Island's Love Algorithm](https://blog.paperspace.com/winning-hearts-love-islands-love-algorithm/)
 Behavior in networked systems is often difficult to predict due to complex relationships between entities. I applied Graph Convolutional Networks to model these relationships within network-focused software products, uncovering patterns that can help predict user behavior and guide product decisions.
-
 <img src="images/network.png?raw=true" />
 
 [Personalizing the Customer Experience with Reinforcement Learning](https://medium.com/@oefeleinerin/smarter-engagement-lower-churn-the-role-of-reinforcement-learning-in-personalizing-the-customer-82580b39c2f2)
 Implemented a **Reinforcement Learning (RL)** solution using **SARSA(λ)** and tile coding to reduce user churn on an online tax filing platform. Modeled user interactions as states, interventions as actions, and retention as rewards. The RL agent learned to select optimal actions, such as offering a Tax Professional, personalized incentives, or proactive support, maximizing retention while minimizing unnecessary interventions.  
-
+<img src="images/SARSA.png?raw=true" />
 Key outcomes:  
 - Improved early churn detection by analyzing action-value functions.  
 - Identified interventions most likely to prevent churn, guiding personalized customer experiences.  
