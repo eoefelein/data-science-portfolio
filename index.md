@@ -15,6 +15,7 @@ This project applied Bayesian modeling in Python to optimize a supplier mix for 
 More broadly, this approach allows us to see the full range of possible outcomes, not just the average. It incorporates uncertainty and context, showing how results could vary and helping us make more informed, robust decisions. That way, we can better allocate resources, plan for risks, and optimize outcomes even when the data is limited or variable.
 
 [Love Island's Love Algorithm](https://blog.paperspace.com/winning-hearts-love-islands-love-algorithm/)
+
 Behavior in networked systems is often difficult to predict due to complex, higher order relationships between entities. Within this project, I apply Graph Convolutional Networks (GCN) to model these relationships, an approach that applies to social networks, boosting content recommendation systems, ad targeting, fraud detection and trend detection with website user behavior by understanding not just individual actions but the network of relationships between them.
 
 <img src="images/network.png?raw=true" />
@@ -22,6 +23,7 @@ Behavior in networked systems is often difficult to predict due to complex, high
 [Personalizing the Customer Experience with Reinforcement Learning](https://medium.com/@oefeleinerin/smarter-engagement-lower-churn-the-role-of-reinforcement-learning-in-personalizing-the-customer-82580b39c2f2)
 
 This project implements a **Reinforcement Learning (RL)** solution using **SARSA(λ)** and tile coding to dynamically optimize user interactions on an online tax filing platform, reducing user churn and improving retention, driving revenue by learning which actions work best in different user states.
+
 This approach applies to any situation where outcomes depend on sequential decisions and user behavior is dynamic, such as e-commerce, gaming, online education, or subscription services. By modeling users as agents interacting with an environment and continuously learning from feedback, RL can personalize experiences, automate complex decision-making, and adapt strategies in real-time in ways traditional  ML models cannot. 
 
 ---
