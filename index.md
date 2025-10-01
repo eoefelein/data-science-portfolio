@@ -35,7 +35,6 @@ Bayesian probabilistic models are growing in popularity, recognized for providin
  - The model fosters business buy-in by integrating domain expertise, actively involving stakeholders in the modeling process.
  - Quantifies channel impact by attributing customer acquisition to each marketing channel directly. 
  - Shows how to allocate funds to maximize customer acquisition.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Data Engineering & Pipelines
 
@@ -49,12 +48,10 @@ Developed a data pipeline in AWS to automatically collect pricing data on resale
 ---
 [Tiny House Nation the SQL](/sample_page)
 What drives consumer behavior? Using tiny home listing data, this project explores whether lifestyle preference or economic factors drive consumers to adopt a tiny home lifestyle. In this project, I build a full data pipeline using Scrapy and Selenium to scrape U.S. tiny house listings. To understand spatial trends, I applied the Local Moran’s I statistic to identify pricing clusters. Users can visualize where pricing drives tiny home living using a Dash application, productionized using Docker and deployed on GCP for scalable, interactive exploration.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Building a Career Pipeline](https://github.com/eoefelein/Beautiful_Soup_Mongo_xlsxwriter)
 Built a data pipeline to extract job posting data in the tech sector from Austin’s Craigslist, storing it in an unstructured MongoDB database and exporting to Microsoft Excel at a scheduled time every day.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Workshops & Education
