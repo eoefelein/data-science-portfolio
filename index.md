@@ -82,7 +82,3 @@ This article shows how LASSO uses an L1 penalty to perform feature selection and
 [View code on GitHub](https://github.com/edkrueger/lasso-demo) 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
-te forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
