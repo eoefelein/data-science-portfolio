@@ -11,6 +11,7 @@ Urban traffic management: Modeling traffic flow probabilities in city networks w
 
 [A Bayesian Approach to Supplier Optimization](https://medium.com/@oefeleinerin/a-bayesian-approach-to-supplier-optimization-9efb2e2c9a58) 
 Optimized supplier selection and manufacturing output using Bayesian modeling to account for variability in supplier yields and production quality. Leveraged PyMC to model supplier performance with hyperpriors and empirical priors, estimating how much product could be successfully manufactured under current supplier conditions. Performed scenario analysis to identify top-performing suppliers, reducing waste from lost product by 68% and providing actionable insights for supply chain decision-making.
+
 <img src="images/BFMI.png?raw=true" />
 
 [Love Island's Love Algorithm](https://blog.paperspace.com/winning-hearts-love-islands-love-algorithm/)
@@ -26,11 +27,11 @@ Key outcomes:
 - Demonstrated how RL can dynamically optimize decisions in a complex, multi-factor environment.  
 
 ---
-[Bayes for Business](/pdf/sample_presentation.pdf)
+[Bayes for Business](https://medium.com/@oefeleinerin/bridging-the-gap-leveraging-machine-learning-and-human-expertise-for-smarter-marketing-6047774b5ef6)
 Bayesian probabilistic models are increasingly being adopted in marketing analytics as a powerful alternative to traditional single-point estimation methods. By integrating prior knowledge, accounting for uncertainty, and modeling complex real-world dynamics, these models provide a richer, more flexible framework for understanding customer behavior and channel performance. In my project, I applied Bayesian attribution to optimize marketing spend across channels, yielding actionable insights and guiding data-informed decision-making.
  - The model fosters business buy-in by integrating domain expertise, actively involving stakeholders in the modeling process.
  - Quantifies channel impact by attributing customer acquisition to each marketing channel directly. - Shows how to allocate funds to maximize customer acquisition.
-
+<img src="images/posterior_predictive_plot.png?raw=true" />
 ### Data Engineering & Pipelines
 
 [Azure Real Estate Rental Data Pipeline](https://github.com/yourusername/real-estate-pipeline)
@@ -46,14 +47,14 @@ What drives consumer behavior? Using tiny home listing data, this project explor
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Building a Career Pipeline](http://example.com/)
+[Building a Career Pipeline](https://github.com/eoefelein/Beautiful_Soup_Mongo_xlsxwriter)
 Built a data pipeline to extract job posting data in the tech sector from Austin’s Craigslist, storing it in an unstructured MongoDB database and exporting to Microsoft Excel at a scheduled time every day.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Workshops & Education
 
-[WiDSAI Workshops](/pdf/sample_presentation.pdf)
+[WiDSAI Workshops](https://github.com/eoefelein/WiDSAI_Python_Workshop)
 Created and facilitated a hands-on Python workshop (WiDSAI) in Google Colab, allowing learners to explore real datasets, practice data analysis, and build coding skills independently.
 
 <img src="images/WiDSAI_Meetup.jpeg?raw=true" />
@@ -67,12 +68,12 @@ Machine learning models are often difficult to interpret, making it challenging 
 
 [View code on GitHub](https://github.com/eoefelein/Understanding-Performance-Trends-Using-Machine-Learning)
 
-[Winning with Probability](/pdf/sample_presentation.pdf)
+[Winning with Probability](https://medium.com/data-science/magic-the-gathering-arena-winning-with-probability-b71f363e0ce2)
 Modeled outcomes in environments where user decisions interact with probabilistic events and rewards. By applying probabilistic analysis to sequential decision-making scenarios, I demonstrated how strategy and chance combine to shape outcomes, enabling insights into behavior, engagement, and potential optimization of rules or incentives.
 Real-world scenarios:
 Education / adaptive learning platforms: Modeling student success probabilities in platforms where learning outcomes depend on both student choices (e.g., problem-solving paths) and inherent uncertainty in mastery or question difficulty.
 
-[LASSO](/pdf/sample_presentation.pdf)
+[LASSO](https://medium.com/data-science/lasso-increases-the-interpretability-and-accuracy-of-linear-models-c1b340561c10)
 This article shows how LASSO uses an L1 penalty to perform feature selection and reduce collinearity, building sparser, more interpretable models. Visualizations of constraint regions and contours illustrate why some coefficients shrink to zero, giving an intuitive, math-backed understanding of LASSO.
 
 <img src="images/lasso.jpeg?raw=true" />
