@@ -33,6 +33,7 @@ Bayesian probabilistic models are increasingly being adopted in marketing analyt
  - The model fosters business buy-in by integrating domain expertise, actively involving stakeholders in the modeling process.
  - Quantifies channel impact by attributing customer acquisition to each marketing channel directly. - Shows how to allocate funds to maximize customer acquisition.
 <img src="images/posterior_predictive_plot.png?raw=true" />
+
 ### Data Engineering & Pipelines
 
 [Azure Real Estate Rental Data Pipeline](https://github.com/yourusername/real-estate-pipeline)
