@@ -42,18 +42,22 @@ Bayesian probabilistic models are growing in popularity, recognized for providin
 ### Data Engineering & Pipelines
 
 [Azure Real Estate Rental Data Pipeline](https://github.com/yourusername/real-estate-pipeline)
+
 Built an Azure data pipeline to collect U.S. rental listings automatically, measuring rental market turnover. Analyzed features such as number of bedrooms, location, and amenities to identify what drives rental pricing & demand, providing actionable insights for investors and property managers.
 
 ---
 [Amazon Resale Ticket Pricing Pipeline](https://github.com/yourusername/ticket-pricing-pipeline)
+
 Developed a data pipeline in AWS to automatically collect pricing data on resale tickets from multiple platforms. Processed and stored structured data to analyze trends, identify pricing patterns, and assess market dynamics. Insights from this pipeline inform pricing strategies and highlight factors that drive ticket value in secondary markets.
 
 ---
 [Tiny House Nation the SQL](/sample_page)
+
 What drives consumer behavior? Using tiny home listing data, this project explores whether lifestyle preference or economic factors drive consumers to adopt a tiny home lifestyle. In this project, I build a full data pipeline using Scrapy and Selenium to scrape U.S. tiny house listings. To understand spatial trends, I applied the Local Moran’s I statistic to identify pricing clusters. Users can visualize where pricing drives tiny home living using a Dash application, productionized using Docker and deployed on GCP for scalable, interactive exploration.
 
 ---
 [Building a Career Pipeline](https://github.com/eoefelein/Beautiful_Soup_Mongo_xlsxwriter)
+
 Built a data pipeline to extract job posting data in the tech sector from Austin’s Craigslist, storing it in an unstructured MongoDB database and exporting to Microsoft Excel at a scheduled time every day.
 
 ---
