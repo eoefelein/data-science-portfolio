@@ -60,7 +60,6 @@ What drives consumer behavior? Using tiny home listing data, this project explor
 
 Built a data pipeline to extract job posting data in the tech sector from Austin’s Craigslist, storing it in an unstructured MongoDB database and exporting to Microsoft Excel at a scheduled time every day.
 
----
 ### Workshops & Education
 
 [WiDSAI Workshops](https://github.com/eoefelein/WiDSAI_Python_Workshop)
