@@ -29,7 +29,6 @@ Key outcomes:
 Bayesian probabilistic models are increasingly being adopted in marketing analytics as a powerful alternative to traditional single-point estimation methods. By integrating prior knowledge, accounting for uncertainty, and modeling complex real-world dynamics, these models provide a richer, more flexible framework for understanding customer behavior and channel performance. In my project, I applied Bayesian attribution to optimize marketing spend across channels, yielding actionable insights and guiding data-informed decision-making.
  - The model fosters business buy-in by integrating domain expertise, actively involving stakeholders in the modeling process.
  - Quantifies channel impact by attributing customer acquisition to each marketing channel directly. - Shows how to allocate funds to maximize customer acquisition.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Data Engineering & Pipelines
 
@@ -78,20 +77,6 @@ This article shows how LASSO uses an L1 penalty to perform feature selection and
 <img src="images/lasso.jpeg?raw=true" />
 
 [View code on GitHub](https://github.com/edkrueger/lasso-demo) 
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
