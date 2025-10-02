@@ -18,7 +18,7 @@ More broadly, this approach allows us to see the full range of possible outcomes
 ---
 [Love Island's Love Algorithm](https://blog.paperspace.com/winning-hearts-love-islands-love-algorithm/)
 
-Behavior in networked systems is often difficult to predict due to complex, higher order relationships between entities. Within this project, I apply Graph Convolutional Networks (GCN) to model these relationships, an approach that applies to social networks, boosting content recommendation systems, ad targeting, fraud detection and trend detection with website user behavior by understanding not just individual actions but the network of relationships between them.
+Behavior in networked systems is often difficult to predict due to complex, higher order relationships between entities. Within this project, I apply Graph Convolutional Networks (GCN) to model these relationships, an approach that applies to social networks, boosting content recommendation systems, ad targeting, fraud detection and trend detection within website user behavior by understanding not just individual actions but the network of relationships between them.
 
 <img src="images/network.png?raw=true" />
 
