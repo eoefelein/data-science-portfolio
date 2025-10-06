@@ -51,7 +51,7 @@ Built an Azure data pipeline to collect U.S. rental listings automatically, meas
 Developed a data pipeline in AWS to automatically collect pricing data on resale tickets from multiple platforms. Processed and stored structured data to analyze trends, identify pricing patterns, and assess market dynamics. Insights from this pipeline inform pricing strategies and highlight factors that drive ticket value in secondary markets.
 
 ---
-[Tiny House Nation the SQL](/sample_page)
+[Tiny House Nation the SQL](https://tiny-house-dashboard.uc.r.appspot.com)
 
 What drives consumer behavior? Using tiny home listing data, this project explores whether lifestyle preference or economic factors drive consumers to adopt a tiny home lifestyle. In this project, I build a full data pipeline using Scrapy and Selenium to scrape U.S. tiny house listings. To understand spatial trends, I applied the Local Moran’s I statistic to identify pricing clusters. Users can visualize where pricing drives tiny home living using a Dash application, productionized using Docker and deployed on GCP for scalable, interactive exploration.
 
